@@ -1,0 +1,9 @@
+#id;width;height;bpp;type;alpha;mask;name
+0;480;800;16;1;0;0x00000000;Bada_Globe_bright.png
+1;480;800;32;1;0;0x00000000;Bada_Globe_bright.png
+2;480;800;32;1;0;0x00000000;Bada_Globe_black.png
+3;480;800;32;1;1;0x00000000;Bada_Globe_black.png
+4;80;80;32;1;0;0x00000000;icon_facebook.png
+5;80;80;32;1;0;0x00000000;icon_shazam.png
+6;80;80;32;1;1;0x00FF00FF;icon_db_alpha.png
+7;80;80;32;1;1;0x00FF00FF;icon_gmaps_alpha.png

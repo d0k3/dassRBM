@@ -1,0 +1,1 @@
+..\dassRBM -a sample.rbm sample.csv
